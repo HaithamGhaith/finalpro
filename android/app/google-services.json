@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "148742636444",
+    "firebase_url": "https://kiswani2-default-rtdb.firebaseio.com",
+    "project_id": "kiswani2",
+    "storage_bucket": "kiswani2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148742636444:android:d8346560260da0b65bfe59",
+        "android_client_info": {
+          "package_name": "com.example.final_project_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5fB0FqFr-ootpDK6W71SlFRdw5bkZKTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148742636444:android:6d466970c92d23845bfe59",
+        "android_client_info": {
+          "package_name": "com.example.pro1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5fB0FqFr-ootpDK6W71SlFRdw5bkZKTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
